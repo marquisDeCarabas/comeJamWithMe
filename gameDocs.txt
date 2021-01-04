@@ -1,0 +1,94 @@
+- Rob Williams -
+Name :          W., Rob
+Occupation :    Accountant, TSI corps.
+Address :       Well of Seven, EY
+Spouse :        W., Philipa
+Children :      W., Billy, W., Max
+Criminal past : No
+
+- Miranda Williams - 
+Name :          W., Miranda
+Occupation :    CEO, TSI corps.
+Address :       Blades, EY
+Spouse :        NA
+Children :      NA
+Criminal past : Stole a candy from a baby
+
+- Billy Williams - 
+Name :          W., Billy
+Occupation :    An ass of a kid
+Address :       Well of Seven, EY
+Criminal past : Stole a baby from a candy
+
+- Philipa Williams - 
+Name :          W., Philipa
+Occupation :    Child psychologist
+Address :       Trough, EY
+Spouse :        W., Rob
+Children:       W., Billy
+Criminal past : No
+
+- Nathan Korjack - 
+Name :          K., Nathan
+Occupation :    Make-up artist, Laugh4Life inc.
+Address :       Sons of lightning, DZ
+Spouse :        NA
+Children :      NA
+Criminal past : Chewed with an open mouth
+
+- Rosalind Korjack - 
+Name :          K., Rosalind
+Occupation :    Stripper
+Address :       Hill of spring, MS
+Spouse :        Which one?
+Children :      K., Nathan
+Criminal past : Gave birth to Nathan
+
+- Muriel Bagge - 
+Name :          B., Muriel
+Occupation :    Monkey tamer, Laugh4Life inc.
+Address :       Hill of spring, MS
+Spouse :        B., Eustace
+Children :      C.D., Courage
+Criminal past : Banana smuggling
+
+- Eustace Bagge - 
+Name :          B., Eustace
+Occupation :    Dog frightner
+                Co-Executive, Ninos Delivery Inc.
+Address :       Hill of spring, MS
+Spouse :        B., Muriel
+Children :      C.D., Courage
+Criminal past : NA
+
+- Ninos Delivery - 
+Name :          Ninos Delivery Inc.
+Address :       Garden Heights, DB
+CEO :           C.D., Courage
+Criminal past : Previous CEO, E. Jeoff, have been 
+                involved in illegal adult 
+                "entertainment". When the affair 
+                went public the company filed for
+                bankruptcy and have been bought 
+                by C.D., Courage. 
+                Since then been on the rise
+                maintaining good reputation.
+
+- Laugh4Life - 
+Name :          Laugh4Life Inc.
+Address :       Hill of spring, MS
+CEO :           E. Larry
+Criminal past : No
+
+- Epstein Larry - 
+Name :          E., Larry
+Occupation :    CEO, Laugh4Life Inc.
+Address :       Sons of lightning, DZ
+Spouse :        NA
+Children :      NA
+Criminal past : No  
+
+- Epstein Jeoff - 
+Name :          E., Jeoff
+Status :        DECEASED
+
